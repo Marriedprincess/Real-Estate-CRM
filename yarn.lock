@@ -22976,9 +22976,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/addon-vitest@npm:^10.2.13":
-  version: 10.2.13
-  resolution: "@storybook/addon-vitest@npm:10.2.13"
+"@storybook/addon-vitest@npm:^10.2.13, @storybook/addon-vitest@npm:^10.3.3":
+  version: 10.3.5
+  resolution: "@storybook/addon-vitest@npm:10.3.5"
   dependencies:
     "@storybook/global": "npm:^5.0.0"
     "@storybook/icons": "npm:^2.0.1"
@@ -22986,7 +22986,7 @@ __metadata:
     "@vitest/browser": ^3.0.0 || ^4.0.0
     "@vitest/browser-playwright": ^4.0.0
     "@vitest/runner": ^3.0.0 || ^4.0.0
-    storybook: ^10.2.13
+    storybook: ^10.3.5
     vitest: ^3.0.0 || ^4.0.0
   peerDependenciesMeta:
     "@vitest/browser":
@@ -22997,32 +22997,7 @@ __metadata:
       optional: true
     vitest:
       optional: true
-  checksum: 10c0/4345cb6bf4a4d772ca9bad5f5806facef499d8b370627c5d972bcf541a08082c8d2338ee16f9a851aa5b6e564247b0de8dbc68dafb1e0559a2428f7a93396cac
-  languageName: node
-  linkType: hard
-
-"@storybook/addon-vitest@npm:^10.3.3":
-  version: 10.3.4
-  resolution: "@storybook/addon-vitest@npm:10.3.4"
-  dependencies:
-    "@storybook/global": "npm:^5.0.0"
-    "@storybook/icons": "npm:^2.0.1"
-  peerDependencies:
-    "@vitest/browser": ^3.0.0 || ^4.0.0
-    "@vitest/browser-playwright": ^4.0.0
-    "@vitest/runner": ^3.0.0 || ^4.0.0
-    storybook: ^10.3.4
-    vitest: ^3.0.0 || ^4.0.0
-  peerDependenciesMeta:
-    "@vitest/browser":
-      optional: true
-    "@vitest/browser-playwright":
-      optional: true
-    "@vitest/runner":
-      optional: true
-    vitest:
-      optional: true
-  checksum: 10c0/07863eb01c830c460e69669e5b099b0b2abaf425e5da80dd79b8dd7427c9647d5ee6e8d8e678e3e7d6c7a790dadf4dd4f2ba6a210f782730f61ede98d33aace1
+  checksum: 10c0/13b5fda1e3843bf6b6f58926e6ddf6dac849f32c69b1bc962c1965d855ef690d2390185bc13bbc8594f84ec1aa980a4426f2a875eb379e6d3d839d8e36c1765b
   languageName: node
   linkType: hard
 
